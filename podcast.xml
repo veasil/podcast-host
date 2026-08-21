@@ -31,5 +31,14 @@
       <itunes:duration>11:56</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+      <item>
+      <title>Codex as a Platform：把 Codex 当作平台来构建</title>
+      <description>单人讲解 · OpenAI 官方博客（gdb 推文）</description>
+      <enclosure url="https://veasil.github.io/podcast-host/audio/episode-20260822-codex-platform.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">Codex-as-a-Platform-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0800</pubDate>
+      <itunes:duration>06:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
