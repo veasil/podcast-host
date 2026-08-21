@@ -3,11 +3,11 @@
   <channel>
     <title>bibb 的文章播客</title>
     <link>https://github.com/veasil/podcast-host</link>
-    <description>把文章自动转成 5 分钟单人讲解播客</description>
+    <description>把文章按压缩效率转成单人讲解播客，高信息密度讲透，低密度讲短</description>
     <language>zh-cn</language>
       <item>
       <title>DeepSeek Harness 热门插件鉴赏</title>
-      <description>5分钟单人讲解 | 程序员鱼皮</description>
+      <description>单人讲解 · 程序员鱼皮</description>
       <enclosure url="https://github.com/veasil/podcast-host/releases/download/episode-20260822-dsh-plugins/dsh_plugins_podcast.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">DeepSeek-Harness--2026-08-22</guid>
       <pubDate>2026-08-22 08:00:00 +0800</pubDate>
