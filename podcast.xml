@@ -22,5 +22,14 @@
       <itunes:duration>04:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+      <item>
+      <title>我用 AI 管理 10 家跨境店铺，月入百万：17 个流程和全部工具公开</title>
+      <description>单人讲解 · Dean</description>
+      <enclosure url="https://veasil.github.io/podcast-host/audio/episode-20260822-crossborder.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">AI-crossborder-17flows-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 10:00:00 +0800</pubDate>
+      <itunes:duration>11:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
