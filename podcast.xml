@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>bibb 的文章播客</title>
+    <link>https://github.com/veasil/podcast-host</link>
+    <description>把文章自动转成 5 分钟单人讲解播客</description>
+    <language>zh-cn</language>
+      <item>
+      <title>DeepSeek Harness 热门插件鉴赏</title>
+      <description>5分钟单人讲解 | 程序员鱼皮</description>
+      <enclosure url="https://github.com/veasil/podcast-host/releases/download/episode-20260822-dsh-plugins/dsh_plugins_podcast.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">DeepSeek-Harness--2026-08-22</guid>
+      <pubDate>2026-08-22 08:00:00 +0800</pubDate>
+      <itunes:duration>04:02</itunes:duration>
+    </item>
+  </channel>
+</rss>
