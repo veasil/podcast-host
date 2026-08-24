@@ -1,0 +1,13 @@
+name: 转播客
+description: 把一篇公众号/网页文章转成单人讲解播客
+title: "[播客] 文章标题"
+labels: [podcast]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: 文章链接
+      description: 粘贴公众号或网页文章的完整链接
+      placeholder: "https://mp.weixin.qq.com/s/..."
+    validations:
+      required: true
