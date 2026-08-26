@@ -40,5 +40,14 @@
       <itunes:duration>06:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+      <item>
+      <title>AI 原生 SDLC 实战指南：Anthropic 六大实践</title>
+      <description>单人讲解 · Anthropic（Louis Claxton）</description>
+      <enclosure url="https://veasil.github.io/podcast-host/audio/episode-20260826-sdlc-playbook.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">AI-Native-SDLC-Playbook-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0800</pubDate>
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
