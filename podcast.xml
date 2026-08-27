@@ -49,5 +49,14 @@
       <itunes:duration>10:37</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+      <item>
+      <title>制造现代人：如果不工作、不消费，你是谁？+ 我问了几十个人是做什么的</title>
+      <description>单人讲解 · 俏也不争（两篇合讲）</description>
+      <enclosure url="https://veasil.github.io/podcast-host/audio/episode-20260828-modern-people.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">Modern-People-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>13:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
